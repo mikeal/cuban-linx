@@ -1,0 +1,17 @@
+{
+  "name": "cuban-linx",
+  "version": "0.1.0",
+  "description": "WebRTC swarm for large networks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.mikealrogers.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "simple-peer": "^6.1.0",
+    "socket.io-client": "^1.7.1",
+    "sodium-encryption": "^1.2.2"
+  }
+}
