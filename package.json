@@ -1,6 +1,6 @@
 {
   "name": "cuban-linx",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "WebRTC swarm for large networks.",
   "main": "index.js",
   "scripts": {
